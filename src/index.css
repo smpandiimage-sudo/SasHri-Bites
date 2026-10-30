@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: 'Fredoka', 'Baloo 2', sans-serif;
+  --font-brand: 'Fredoka', sans-serif;
+  --font-sans: 'Plus Jakarta Sans', sans-serif;
+  
+  --color-brand-green: #1E3F20;
+  --color-brand-forest: #2D5A27;
+  --color-brand-leaf: #3D7636;
+  --color-brand-mint: #E9F2E7;
+  --color-brand-cream: #FAF8F5;
+  --color-brand-sand: #F2EDE4;
+  --color-brand-gold: #F5A623;
+  --color-brand-amber: #E68A14;
+  --color-brand-cookie: #4A2810;
+  --color-brand-clay: #C86D51;
+  --color-brand-warmearth: #8C432B;
+  --color-brand-charcoal: #19231D;
+  --color-brand-muted: #5E6D63;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--color-brand-cream);
+  color: var(--color-brand-charcoal);
+}
+
+h1, h2, h3, h4, .font-display {
+  font-family: var(--font-display);
+}

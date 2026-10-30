@@ -1,0 +1,6 @@
+{
+  "name": "SasHri Bites - Premium Healthy FMCG Snacks",
+  "description": "SasHri Bites is a premium Indian healthy snacking and FMCG brand from Ramanathapuram, Tamil Nadu, crafting wholesome roasted millets, spiced makhana, and clean snacks for consumers and retail distributors across India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
